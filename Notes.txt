@@ -1,0 +1,10 @@
+TO PUSH THE CHANGES/UPDATES TO REPOSITARY
+git add <file_name> or git add .
+git commit -m "message"
+git push
+
+TO PULL THE REPOSITARY
+git pull
+
+TO CLONE THE REPOSITARY
+git clone <repo_link>
