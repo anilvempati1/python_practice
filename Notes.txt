@@ -8,3 +8,4 @@ git pull
 
 TO CLONE THE REPOSITARY
 git clone <repo_link>
+i am good
